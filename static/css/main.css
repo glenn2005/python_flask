@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: cornsilk;
+
+}
+
+table{
+    padding:9px;
+    text-align:center;
+    
+
+}
+tr{
+    padding:9px;
+    color: black;
+}
